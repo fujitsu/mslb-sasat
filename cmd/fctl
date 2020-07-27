@@ -1,0 +1,29 @@
+#!/bin/bash
+# 
+#   sasatトランスレータの起動・停止
+# 
+declare -r f_sasat="/opt/sasat/sbin/sasat_f"
+
+case "$1" in
+    start)
+        echo "Start SASAT front daemon"
+        $f_sasat -d 2>&1
+    ;;
+    stop)
+        echo "Stop SASAT front daemon"
+        /bin/kill $(cat '/var/run/sasat.pid')
+    ;;
+    restart)
+        $0 stop
+        $0 start
+    ;;
+    status)
+        /opt/sasat/sbin/psasat
+    ;;
+    *)
+        echo $"Usage: fctl {start|stop|restart|status}"
+        exit 1
+esac
+
+exit 0
+

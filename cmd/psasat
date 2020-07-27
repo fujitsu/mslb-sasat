@@ -1,0 +1,17 @@
+#!/bin/bash
+
+c=$(/bin/ps aux | /bin/grep sasat_f | /bin/grep -v grep | /usr/bin/wc -l)
+if [ $c -ne 0 ]; then
+    echo "SASAT Front translator is working"
+    exit 0
+fi
+
+c=$(/bin/ps aux | /bin/grep sasat_b | /bin/grep -v grep | /usr/bin/wc -l)
+if [ $c -ne 0 ]; then
+    echo "SASAT Backend translator is working"
+    exit 0
+fi
+
+echo "SASAT translator is NOT working"
+
+exit 0 
