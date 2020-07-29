@@ -2,7 +2,7 @@
  * file    util_inline.h
  * brief   各種処理
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT)Yagi
+ *         Yagi
  * 改版履歴(出荷後記入)
  * 版数   日付    変更者    リリースノート
  * ---- -------- --------- --------------------------------------------------
