@@ -2,9 +2,9 @@
  * file    init.h
  * brief   
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT) Yagi
- * ‰ü”Å—š—ð(o‰×Œã‹L“ü)
- * ”Å”   “ú•t    •ÏXŽÒ    ƒŠƒŠ[ƒXƒm[ƒg
+ *         Yagi
+ * æ”¹ç‰ˆå±¥æ­´(å‡ºè·å¾Œè¨˜å…¥)
+ * ç‰ˆæ•°   æ—¥ä»˜    å¤‰æ›´è€…    ãƒªãƒªãƒ¼ã‚¹ãƒŽãƒ¼ãƒˆ
  * ---- -------- --------- --------------------------------------------------
  */
 #ifndef __INIT_H__
