@@ -2,7 +2,7 @@
  * file    mac_resolution.c
  * brief   代表IP宛のARP要求・NSを処理する  
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT)Yagi
+ *         Yagi
  *
  * 改版履歴(出荷後記入)
  * 版数   日付    変更者    リリースノート
