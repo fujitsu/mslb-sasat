@@ -1,6 +1,6 @@
 # mslb-sasat
 
-MSLB (Multi-Stage Transparent Server Load Balancing) implementation, called sasat.
+sasat, MSLB (Multi-Stage Transparent Server Load Balancing) implementation.
 
 ## spec
 https://tools.ietf.org/html/draft-matsuhira-mslb
