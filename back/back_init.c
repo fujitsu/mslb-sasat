@@ -2,7 +2,7 @@
  * file    back_init.c
  * brief   初期化処理(backend)
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT) Yagi
+ *         Yagi
  * 改版履歴(出荷後記入)
  * 版数   日付    変更者    リリースノート
  * ---- -------- --------- --------------------------------------------------
