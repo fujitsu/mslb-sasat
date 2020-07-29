@@ -17,7 +17,7 @@
 
     command completeと表示されたら正常終了
     
-    FCT) Yagi    
+    Yagi    
 */
 
 #include <unistd.h>
