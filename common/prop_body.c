@@ -2,7 +2,7 @@
  * file    prop_body.c
  * brief   プロパティファイル読み出し
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT)Yagi
+ *         Yagi
  *
  * 版数   日付    変更者    リリースノート               
  * ---- -------- --------- --------------------------------------------------
