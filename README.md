@@ -8,7 +8,6 @@ https://tools.ietf.org/html/draft-matsuhira-mslb
 https://datatracker.ietf.org/doc/draft-matsuhira-mslb/
 
 ## Contact
-matsuhira@jp.fujitsu.com
-
+m46-me6-mslb-contact@googlegroups.com
 
 
