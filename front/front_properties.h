@@ -1,10 +1,10 @@
 /**
  * file    front_properties.h
- * brief   ƒvƒƒpƒeƒBƒtƒ@ƒCƒ‹“Ç‚Ýo‚µ
+ * brief   ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãƒ•ã‚¡ã‚¤ãƒ«èª­ã¿å‡ºã—
  * note    COPYRIGHT FUJITSU LIMITED 2010
- *         FCT)Yagi
+ *         Yagi
  *
- * ”Å”   “ú•t    •ÏXŽÒ    ƒŠƒŠ[ƒXƒm[ƒg               
+ * ç‰ˆæ•°   æ—¥ä»˜    å¤‰æ›´è€…    ãƒªãƒªãƒ¼ã‚¹ãƒŽãƒ¼ãƒˆ               
  * ---- -------- --------- --------------------------------------------------
  */
 #ifndef __ANYC_UTIL_PROPERTIES_H__
